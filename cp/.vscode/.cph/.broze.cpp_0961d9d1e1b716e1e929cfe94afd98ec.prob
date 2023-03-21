@@ -1,0 +1,1 @@
+{"name":"Local: broze","url":"/home/cse29/cp/.vscode/broze.cpp","tests":[{"id":1669725730478,"input":".-.--\n","output":"012"},{"id":1669725887682,"input":"--.\n","output":"20"},{"id":1669725895717,"input":"-..-.--\n","output":"1012"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/cse29/cp/.vscode/broze.cpp","group":"local","local":true}
