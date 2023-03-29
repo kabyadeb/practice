@@ -1,0 +1,1 @@
+{"name":"Local: i love aaab","url":"/home/cse29/Documents/i love aaab.cpp","tests":[{"id":1679838003366,"input":"4\nAABAB\nABB\nAAAAAAAAB\nA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/cse29/Documents/i love aaab.cpp","group":"local","local":true}

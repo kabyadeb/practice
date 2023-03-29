@@ -1,5 +1,4 @@
 //https://codeforces.com/problemset/problem/899/A
-//unsolved
 
 #include <iostream>
 #include <bits/stdc++.h>

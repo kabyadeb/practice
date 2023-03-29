@@ -32,39 +32,7 @@ void solve(){
                 cout<<f<<nl;
             }
         }
-        // else if( b==d)//ok
-        // {
-        //     if(a<c ){
-        //         //cout<<f<<nl;
-        //         cout<<"-1"<<nl;//ok
-        //     }
-        //     else{
-        //         cout<<abs(c-a)<<endl;
-        //     }
-        // }
-//         else if(c<a && b==d)
-//         {
-//             a=a+1;
-//             b=b+1;
-//             if(a==c && b==d){
-//                 cout<<f<<nl;
-//                 cout<<"3"<<nl;
-//                 break;
-//             }
-//             if(b<d)
-//             {
-//                 cout<<"-1"<<nl;
-//                 cout<<"3"<<nl;
-//                 break; 
-//             }
 
-//         }
-//         else if(a==c && b==d){
-//             cout<<f<<nl;
-//             cout<<"4"<<nl;
-//             break;
-//         }
-//    // }
 }
 int main() {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);

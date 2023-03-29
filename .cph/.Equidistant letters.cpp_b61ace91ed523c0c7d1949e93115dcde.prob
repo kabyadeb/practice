@@ -1,0 +1,1 @@
+{"name":"Local: Equidistant letters","url":"/home/cse29/Documents/Equidistant letters.cpp","tests":[{"id":1679487627621,"input":"","output":""},{"id":1679487639803,"input":"3\noelhl\nabcdcba\nac","output":"hello\nababcdc\nac"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/cse29/Documents/Equidistant letters.cpp","group":"local","local":true}
